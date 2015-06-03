@@ -14,5 +14,5 @@ set ruler
 set hlsearch
 set ignorecase
 set showmatch
-hi comment ctermfg=green "comment color  
+hi comment ctermfg=green
 
